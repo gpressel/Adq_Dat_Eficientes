@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+environment/project/0.2092780316/PROJECT_PATH/delimiter=;
+environment/project/0.2092780316/PROJECT_PATH/operation=append
+environment/project/0.2092780316/PROJECT_PATH/value=/cygdrive/c/CIAA/Firmware/examples/blinking
+environment/project/0.2092780316/append=true
+environment/project/0.2092780316/appendContributed=true
+environment/project/0.965297894/BOARD/delimiter=;
+environment/project/0.965297894/BOARD/operation=append
+environment/project/0.965297894/BOARD/value=edu_ciaa_nxp
+environment/project/0.965297894/PROJECT_PATH/delimiter=;
+environment/project/0.965297894/PROJECT_PATH/operation=replace
+environment/project/0.965297894/PROJECT_PATH/value=/cygdrive/c/CIAA/Firmware/examples/blinking
+environment/project/0.965297894/append=true
+environment/project/0.965297894/appendContributed=true
